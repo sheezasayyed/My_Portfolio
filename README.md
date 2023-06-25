@@ -1,4 +1,4 @@
-![p1](https://github.com/sheezasayyed/My_Portfolio/assets/122882451/b4dfa097-78fb-4186-8a66-589bacd24724)# My_Portfolio
+My Portfolio
 Languages Used : HTM, CSS, Javascript, PHP
 
 Output:
